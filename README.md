@@ -19,6 +19,6 @@ Some tools languages and products I am currently using|
 
 <br>
 
-<input type="text" id="name" name="name"/>
+
           
         
