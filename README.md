@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+### Hi there folks 👋
 
 - 🔭 I’m currently working on cloud android native apps
 - 🌱 I’m currently learning golang
