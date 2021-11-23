@@ -19,6 +19,7 @@ Some tools languages and products I am currently using|
 
 <br>
 
+* [ ] Task list item
 
 # Subscribe
 
