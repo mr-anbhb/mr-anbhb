@@ -19,7 +19,7 @@ Some tools languages and products I am currently using|
 
 <br>
 
-* [ ] Task list item
+* [ x ] All set
 
 # Subscribe
 
