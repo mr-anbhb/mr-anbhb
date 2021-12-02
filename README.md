@@ -19,7 +19,7 @@ Some tools languages and products I am currently using|
 
 <br>
 
-* [x] All set
+* [x] All set to move forward!
 
 # Subscribe
 
