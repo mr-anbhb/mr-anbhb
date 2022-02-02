@@ -1,4 +1,5 @@
-### Hi there folks 👋
+### 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPXVsoCy7WEiQWmX8wuo4eJRUcJIcnw6sHVw&usqp=CAU"/>
 
 - 🔭 I’m currently working on cloud native apps
 - 🌱 I’m currently learning golang
