@@ -1,6 +1,6 @@
 ### Hi there folks 👋
 
-- 🔭 I’m currently working on cloud android native apps
+- 🔭 I’m currently working on cloud native apps
 - 🌱 I’m currently learning golang
 - 🏋️‍♂️ I am practicing product marketing.
 - 🤔 I’m looking for help with Machine learning
