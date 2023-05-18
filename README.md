@@ -9,16 +9,14 @@
 - 😄 Pronouns: he/him
 - ⚡ Motivational fact: No one is there where you live but everyone is there where you stand.
 
-Some tools languages and products I am currently using|
 <br>
-• <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-• <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-• <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
-• <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-• <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
-• <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+Languages - Javascript, Python, Ruby, C++
+Frameworks - React, React native, Angular, svelte, nextjs, Remix, Django, NodeJs(expressJs, Deno)
+Database used - Postgres, MongoDB, Redis & MySQL 
+Tools - Figma, planetscale
+New Tech - Machine learning 
 
-<br>
+<br/>
 
 * [x] All set to move forward!
 
